@@ -5,8 +5,8 @@ int main()
 {	
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-	char name[] = " ",year;
-	cout << "Ââåä³òü âàøå ¿ìÿ" << endl;
+	char name[] = " ";
+	cout << "Ã‚Ã¢Ã¥Ã¤Â³Ã²Ã¼ Ã¢Ã Ã¸Ã¥ Â¿Ã¬Ã¿" << endl;
 	cin >> name;
-	cout << "Ïðèâ³ò"<<" "<< name << "!";
+	cout << "ÃÃ°Ã¨Ã¢Â³Ã²"<<" "<< name << "!";
 }

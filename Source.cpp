@@ -5,7 +5,7 @@ int main()
 {	
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
-        string name;
+        char name[]= "";
 	cout << "Ââåä³òü âàøå ¿ìÿ" << endl;\\ enter your nema
 	cin >> name;
 	cout << "Ïðèâ³ò"<<" "<< name << "!";\\hello
